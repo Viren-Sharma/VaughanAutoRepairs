@@ -1,4 +1,4 @@
-function openCity(evt, cityName) {
+function openTab(evt, tabName) {
     // Declare all variables
     var i, tabcontent, tablinks;
 
