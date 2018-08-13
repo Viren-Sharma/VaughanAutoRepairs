@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"course",
+				"course_code"
+			],
+			[
+				"na",
+				"numerator"
+			],
+			[
+				"reg",
+				"registration"
+			],
+			[
+				"fami",
+				"DropFamilies"
+			],
+			[
+				"Stude",
+				"student"
+			],
+			[
+				"ar",
+				"article_path"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"article",
+				"article_path"
+			],
+			[
+				"n",
+				"new"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Viren/Desktop/VaR/VaughanAutoRepairs"
+	],
+	"file_history":
+	[
+		"/C/Users/Viren/Desktop/VaR/VaughanAutoRepairs/index.html",
+		"/C/Users/Viren/progress/Application/Vagrantfile",
+		"/C/Users/Viren/progress/Application/db/schema.rb",
+		"/C/Users/Viren/progress/Application/app/models/mark.rb",
+		"/C/Users/Viren/progress/Application/app/views/dashboard/students_show.html.erb",
+		"/C/Users/Viren/progress/Application/app/views/class/students_show.html.erb",
+		"/C/Users/Viren/progress/blog/config/routes.rb",
+		"/C/Users/Viren/progress/Application/Gemfile",
+		"/C/Users/Viren/progress/Application/vendor/assets/javascripts/jsapi.js",
+		"/C/Users/Viren/progress/Application/app/controllers/class_controller.rb",
+		"/C/Users/Viren/progress/Application/app/controllers/application_controller.rb",
+		"/C/Users/Viren/progress/Application/app/models/registration.rb",
+		"/C/Users/Viren/progress/Application/app/assets/javascripts/application.js",
+		"/C/Users/Viren/progress/Application/db/seeds.rb",
+		"/C/Users/Viren/progress/Application/app/models/section.rb",
+		"/C/Users/Viren/progress/Application/app/controllers/dashboard_controller.rb",
+		"/C/Users/Viren/progress/Application/app/models/student.rb",
+		"/C/Users/Viren/progress/Application/db/test.sqlite3",
+		"/C/Users/Viren/progress/Application/app/models/assignment.rb",
+		"/C/Users/Viren/progress/Application/app/assets/stylesheets/application.css",
+		"/C/Users/Viren/progress/Application/app/models/application_record.rb",
+		"/C/Users/Viren/progress/Application/app/controllers/students_controller.rb",
+		"/C/Users/Viren/progress/Application/app/views/students/home.html.erb",
+		"/C/Users/Viren/progress/Application/app/assets/javascripts/jsapi.js",
+		"/C/Users/Viren/progress/blog/app/views/welcome/index.html.erb",
+		"/C/Users/Viren/progress/Application/public/assets/application-659419f557c3f270bd871c9289e4c394084f3a4efaf91163a37f4384cc7b949d.js",
+		"/C/Users/Viren/progress/Application/app/helpers/admins_helper.rb",
+		"/C/Users/Viren/progress/Application/db/development.sqlite3",
+		"/C/Users/Viren/progress/Application/app/views/dashboard/students.html.erb",
+		"/C/Users/Viren/progress/Application/app/controllers/errors_controller.rb",
+		"/C/Users/Viren/progress/Application/config/routes.rb",
+		"/C/Users/Viren/progress/Application/config/application.rb",
+		"/C/Users/Viren/progress/blog/app/views/comments/_comment.html.erb",
+		"/C/Users/Viren/progress/blog/app/views/articles/show.html.erb",
+		"/C/Users/Viren/progress/blog/app/controllers/articles_controller.rb",
+		"/C/Users/Viren/progress/blog/app/controllers/replies_controller.rb",
+		"/C/Users/Viren/progress/blog/app/views/comments/_form.html.erb",
+		"/C/Users/Viren/progress/blog/app/controllers/comments_controller.rb",
+		"/C/Users/Viren/progress/blog/app/views/replies/_form.html.erb",
+		"/C/Users/Viren/progress/blog/app/models/reply.rb",
+		"/C/Users/Viren/progress/blog/app/models/comment.rb",
+		"/C/Users/Viren/progress/blog/app/models/article.rb",
+		"/C/Users/Viren/progress/blog/db/schema.rb",
+		"/C/Users/Viren/progress/blog/app/views/replies/_reply.html.erb",
+		"/C/Users/Viren/progress/blog/app/views/articles/index.html.erb",
+		"/C/Users/Viren/progress/blog/app/views/layouts/application.html.erb",
+		"/C/Users/Viren/progress/blog/app/views/layouts/navbar.html.erb",
+		"/C/Users/Viren/progress/blog/app/views/layouts/mailer.text.erb",
+		"/C/Users/Viren/progress/blog/app/views/layouts/mailer.html.erb",
+		"/C/Users/Viren/progress/blog/app/assets/javascripts/articles.coffee",
+		"/C/Users/Viren/progress/blog/app/assets/javascripts/application.js",
+		"/C/Users/Viren/progress/blog/app/controllers/application_controller.rb",
+		"/C/Users/Viren/progress/blog/app/models/application_record.rb",
+		"/C/Users/Viren/progress/blog/app/controllers/welcome_controller.rb",
+		"/C/Users/Viren/progress/blog/app/helpers/comments_helper.rb",
+		"/C/Users/Viren/progress/blog/db/seeds.rb",
+		"/C/Users/Viren/progress/blog/app/views/articles/_form.html.erb",
+		"/C/Users/Viren/progress/Application/app/models/parent.rb",
+		"/C/Users/Viren/progress/Application/db/migrate/20170212234453_create_users.rb",
+		"/C/Users/Viren/progress/Application/app/models/course.rb",
+		"/C/Users/Viren/progress/Application/app/models/teacher.rb",
+		"/C/Users/Viren/progress/Application/app/models/admin.rb",
+		"/C/Users/Viren/progress/Application/app/models/user.rb",
+		"/C/Users/Viren/progress/Application/db/migrate/20170316015314_drop_families.rb",
+		"/C/Users/Viren/progress/Application/app/models/family.rb",
+		"/C/Users/Viren/progress/Application/app/controllers/admin_controller.rb",
+		"/C/Users/Viren/progress/Application/db/migrate/20170306001252_change_column_name.rb",
+		"/C/Users/Viren/progress/Application/db/migrate/20170213012935_add_user_ref_to_teachers.rb",
+		"/C/Users/Viren/progress/Application/db/migrate/20170213011703_add_user_ref_to_students.rb",
+		"/C/Users/Viren/progress/Application/db/migrate/20170213000228_create_students.rb",
+		"/C/Users/Viren/progress/Application/app/views/students/show.html.erb",
+		"/C/Users/Viren/progress/Application/app/controllers/users_controller.rb",
+		"/C/Users/Viren/progress/Application/app/views/users/edit.html.erb",
+		"/C/Users/Viren/progress/Application/app/controllers/sessions_controller.rb",
+		"/C/Users/Viren/progress/Application/app/views/users/_form.html.erb",
+		"/C/Users/Viren/progress/Application/app/views/users/_user.json.jbuilder",
+		"/C/Users/Viren/progress/Application/app/views/users/index.html.erb",
+		"/C/Users/Viren/progress/Application/app/views/sessions/home.html.erb",
+		"/C/Users/Viren/progress/Application/app/controllers/teachers_controller.rb",
+		"/C/Users/Viren/progress/Application/db/migrate/20170213010101_add_reference.rb",
+		"/C/Users/Viren/progress/Application/db/migrate/20170213001226_create_teachers.rb",
+		"/C/Users/Viren/progress/blog/db/migrate/20170205211731_create_comments.rb",
+		"/C/Users/Viren/progress/blog/app/views/articles/new.html.erb",
+		"/C/Users/Viren/progress/blog/app/views/articles/edit.html.erb",
+		"/C/Users/Viren/progress/blog/db/migrate/20170130004824_create_articles.rb",
+		"/C/Users/Viren/progress/database.sql",
+		"/C/Users/Viren/Desktop/usb/Old Stuff/Other Work/Python/decimal2roman.py",
+		"/C/Users/Viren/Desktop/usb/Old Stuff/Other Work/Python/roman2decimal.py",
+		"/C/Users/Viren/Desktop/usb/Old Stuff/Other Work/Python/6Viren Sharma funEx/funEx1.py",
+		"/C/Users/Viren/progress/hello",
+		"/C/Users/Viren/progress/test",
+		"/C/Users/Viren/progress/.git/info/exclude",
+		"/C/Users/Viren/progress/progress"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"average",
+			"numerator",
+			"nunerator",
+			"layout",
+			"registration_id",
+			"mark_id",
+			"\"06/25/2018\"",
+			"{j+1}",
+			"06/25/2018",
+			"09/01/2017"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"id",
+			"\"06-25-2018\"",
+			"\"#{j+1}\"",
+			"\"06/25/2018\"",
+			"\"09-01-2017\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Viren\\Desktop\\VaR\\VaughanAutoRepairs"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"blog\\config\\routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
