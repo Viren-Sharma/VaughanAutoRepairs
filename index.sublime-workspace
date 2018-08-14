@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"t",
+				"td\tTag"
+			],
+			[
 				"course",
 				"course_code"
 			],
@@ -47,8 +51,29 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 15,
+				"buffer_size": 1187,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tabs.js",
+			"settings":
+			{
+				"buffer_size": 784,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "function openCity(evt, cityName) {"
+			}
+		},
+		{
+			"file": "tab_styles.css",
+			"settings":
+			{
+				"buffer_size": 861,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "/* Style the tab */"
 			}
 		}
 	],
@@ -188,7 +213,7 @@
 	],
 	"find":
 	{
-		"height": 21.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -203,6 +228,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"city",
+			"cityName",
 			"average",
 			"numerator",
 			"nunerator",
@@ -250,15 +277,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15,
+						"buffer_size": 1187,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								489,
+								489
 							]
 						],
 						"settings":
@@ -271,12 +298,69 @@
 					},
 					"stack_index": 0,
 					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tabs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function openCity(evt, cityName) {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tab_styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* Style the tab */",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -297,18 +381,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -364,7 +441,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
